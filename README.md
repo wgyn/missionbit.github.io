@@ -12,19 +12,14 @@ site work well and look good:
 
 # Setup
 
-## Mac
-
-Make sure you have an administrator account on the computer and
-install [Jekyll] by opening Terminal and typing the following command:
+After cloning the repository, you need to install [Jekyll]. First, from a
+terminal, make sure your Ruby version is at least 2.1:
 
 ```bash
-sudo gem install jekyll
+ruby -v`
 ```
 
-## Cloud9
-
-After cloning the repository, you need to install [Jekyll]. It will take
-a while! From the terminal:
+Then install [Jekyll]. It will take a while!
 
 ```bash
 bundle install
